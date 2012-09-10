@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<? if (${1:condition}) { ?>
+
+<? } ?>]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html</scope>
+    <description>if …</description>
+</snippet>

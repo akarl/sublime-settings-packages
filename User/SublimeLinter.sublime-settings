@@ -1,0 +1,8 @@
+{
+	"pep8_ignore":
+	[
+	    "W191", "E501"
+	],
+
+	"sublimelinter_delay": 0.5
+}

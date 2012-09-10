@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1347279719,
+	"installed_packages":
+	[
+		"FileDiffs",
+		"Jinja2",
+		"LESS",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Sublimipsum",
+		"Theme - Soda",
+		"Twig",
+		"zenburn",
+		"ZenCoding"
+	]
+}
