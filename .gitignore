@@ -2,3 +2,4 @@
 *.cache
 Backup/
 Pristine Packages/
+Settings/Session.sublime_session
